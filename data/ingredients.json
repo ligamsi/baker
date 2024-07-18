@@ -1,0 +1,22 @@
+[
+    {
+        "name": "water",
+        "type_of_value": "litr"
+    },
+    {
+        "name": "salt",
+        "type_of_value": "gramm"
+    },
+    {
+        "name": "flour",
+        "type_of_value": "gramm"
+    },
+    {
+        "name": "sugar",
+        "type_of_value": "gramm"
+    },
+    {
+        "name": "yeast",
+        "type_of_value": "gramm"
+    }
+]

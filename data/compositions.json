@@ -1,0 +1,46 @@
+{
+    "white": [
+        {
+            "ingredient": "water",
+            "count": 200
+        },
+        {
+            "ingredient": "salt", 
+            "count": 30
+        },
+        {
+            "ingredient": "flour",
+            "count": 200
+        },
+        {
+            "ingredient": "sugar",
+            "count": 60
+        },
+        {
+            "ingredient": "yeast",
+            "count": 50
+        }
+    ],
+    "black": [
+        {
+            "ingredient": "water",
+            "count": 200
+        },
+        {
+            "ingredient": "salt", 
+            "count": 20
+        },
+        {
+            "ingredient": "flour",
+            "count": 250
+        },
+        {
+            "ingredient": "sugar",
+            "count": 50
+        },
+        {
+            "ingredient": "yeast",
+            "count": 50
+        }
+    ]
+}
